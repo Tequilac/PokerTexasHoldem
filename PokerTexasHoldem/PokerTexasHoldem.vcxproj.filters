@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\player.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\combinations.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\button.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\card.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\decisions.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\deck.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sort.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\table.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\random.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\card.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\deck.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\button.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\table.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\combinations.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\decisions.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sort.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\random.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\2C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\2D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\2H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\2S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\3C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\3D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\3H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\3S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\4C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\4D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\4H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\4S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\5C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\5D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\5H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\5S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\6C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\6D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\6H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\6S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\7C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\7D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\7H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\7S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\8C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\8D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\8H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\8S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\9C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\9D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\9H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\9S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\10C.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\10D.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\10H.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\10S.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\AC.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\aces.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\AD.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\AH.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\AS.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\back_cards-07.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\blue_back.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\gray_back.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\green_back.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\honor_clubs.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\honor_diamond.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\honor_heart-14.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\honors_spade-14.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\JC.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\JD.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\JH.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\JS.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\KC.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\KD.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\KH.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\KS.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\purple_back.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\QC.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\QD.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\QH.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\QS.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\red_back.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\yellow_back.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\dealer.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="res\Arial.ttf" />
+  </ItemGroup>
+</Project>
